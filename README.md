@@ -1,24 +1,23 @@
-# README
+# ruby6_blog_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+first app using ruby on rails
 
-Things you may want to cover:
+TODO :
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+- System dependencies
 
-* Configuration
+- Configuration
 
-* Database creation
+- Database creation
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- Deployment instructions
 
-* ...
+- ...
