@@ -21,6 +21,17 @@
   margin-top: 25px;
 }
 
+.badge {
+  background-color: #CEF6F5;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+  }
+  
+.input_checkbox input {
+  width: auto !important;
+  }
+
 .jumbotron {
   background-image: asset-url("blogBanner.jpg");
   background-position: center center;
@@ -28,6 +39,10 @@
   background-size: cover;
   height: 425px;
   color: white;
+}
+
+.checkbox-margin {
+  margin-left: 150px;
 }
 
 html,
